@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-![Uploading github pr.PNG…]()
+<img width="1048" height="420" alt="github pr" src="https://github.com/user-attachments/assets/b7229219-7d08-401d-8e2e-5a33f39eff6d" />
 
 
 The **GitHub Automatic PR Review Workflow** is an **n8n-based automation** that performs **AI-driven code reviews** whenever a pull request (PR) is opened or updated in a GitHub repository.
